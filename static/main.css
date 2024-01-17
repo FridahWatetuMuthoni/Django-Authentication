@@ -13,3 +13,18 @@
 label[for="id_remember"] {
   display: none;
 }
+
+.login-items {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.registration-form {
+  font-size: 14px;
+}
+
+.registration-form input {
+  font-size: inherit;
+}
